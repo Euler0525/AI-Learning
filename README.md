@@ -48,16 +48,7 @@
 
 ## [Deep_Learning](https://nbviewer.org/github/Euler0525/AI-Learning/tree/master/Deep_Learning/)
 
-### [1-Neural_Networks_and_Deep_Learning](https://nbviewer.org/github/Euler0525/AI-Learning/blob/master/Deep_Learning/1-Neural_Networks_And_Deep_Learning/)
-
-#### [PA1-Logistic_Regression_with_a_Neural_Network_mindset](https://nbviewer.org/github/Euler0525/AI-Learning/blob/master/Deep_Learning/1-Neural_Networks_And_Deep_Learning/PA1-Logistic_Regression_With_A_Neural_Network_Mindset/PA1-Logistic_Regression_With_A_Neural_Network_Mindset.ipynb)
-
-#### [PA2-Planar_Data_Classification_With_One_Hidden_Layer]()
-
-#### [PA3-Building_Your_Deep_Neural_Network_Step_by_Step]()
 
 ## Reference
 
 [**ladykaka007**的投稿视频](https://space.bilibili.com/49109393/video)
-
-[吴恩达《深度学习》编程作业目录](https://www.heywhale.com/mw/notebook/5e9e6dc4ebb37f002c6230d7)
